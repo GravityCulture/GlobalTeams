@@ -2,7 +2,9 @@
 
 Love and ideas across timezones 
 
-# Create T3 App
+GlobalTeams is a map-based discovery and scheduling tool to make international collaboration more seamless
+
+### Create T3 App
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
 
@@ -14,4 +16,4 @@ If you are not familiar with the different technologies used in this project, pl
 - [Tailwind CSS](https://tailwindcss.com)
 - [tRPC](https://trpc.io)
 
-## GlobalTeams is a map-based discovery and scheduling tool to make international collaboration more seamless
+
