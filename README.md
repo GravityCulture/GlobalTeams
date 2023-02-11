@@ -4,7 +4,7 @@ Love and ideas across timezones
 
 GlobalTeams is a map-based discovery and scheduling tool to make international collaboration more seamless
 
-### Create T3 App
+### Create T3 App (below is taken from create-t3-app readme)
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
 
